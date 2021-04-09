@@ -1,1 +1,4 @@
-# 65-Years-of-Weather-Data-Visualization-using-Matplotlib
+The purpose of this project is the data visualization on the recent 65 Years of Weather Data in Bangladesh. The dataset has been taken from this link:
+https://www.kaggle.com/emonreza/65-years-of-weather-data-bangladesh-preprocessed
+
+The dataset has been imported to the Python Notebook. Matplotlib is used for data visualization and graphical plotting library for Python and its numerical extension NumPy. Pandas was used for data manipulation and cleaning[1]. Data visualization with 8 charts (Bar Chart, Scatter Chart, Pie Chart, Grouped Bar Chart, Column Chart, Stem Chart, Donut Chart, Stacked Line Chart) were created based on it. From the data visualization, it gives us the idea that the weather of Bangladesh has been quite temperate. It has been neither too hot nor too cold. But when it comes to rainfall, the region faces heavy rainfall, especially in the rainy season.
